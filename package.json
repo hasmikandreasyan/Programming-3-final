@@ -1,0 +1,23 @@
+{
+  "name": "programming-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasmikandreasyan/programming-3.git"
+  },
+  "author": "HasmikAndreasyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.1.0"
+  },
+  "engines": {
+    "node": "4.7.2"
+  }
+}
